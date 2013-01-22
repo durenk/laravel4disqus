@@ -1,0 +1,23 @@
+{
+    "name": "durenk/laravel4disqus",
+    "description": "",
+    "authors": [
+        {
+            "name": "Dedy Ibnu",
+            "email": "dedy.ibnu@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Durenk\\Disqus": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
