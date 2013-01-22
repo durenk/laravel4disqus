@@ -1,6 +1,8 @@
 Laravel-4-Disqus v0.0.1
 ====================
 
+Laravel-4-Disqus is a testing library born out of Disqus Bundle, by Isaak Mogetutu[https://github.com/mogetutu/laravel-disqus].
+
 ##Installation
 
 Add `Durenk/Disqus` to `composer.json`:
